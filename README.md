@@ -23,9 +23,10 @@
 
 ## 📊 GitHub Stats
 
-![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=raunakr03-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakr03-dev&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raunakr03-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raunakr03-dev&layout=compact&theme=tokyonight)
+
 
 ## 📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/raunak-rajak
-- GitHub: https://github.com/raunakr03-dev

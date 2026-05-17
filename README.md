@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Raunak 👋
 
-<!--
-**raunakr03-dev/raunakr03-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer  
+💻 Learning Web Development & DSA  
+📍 Kolkata, India  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- C Programming
+- Data Structures & Algorithms
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Projects
+- AI Resume Analyzer
+- Learning & Building More Projects
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/raunak-rajak
+- GitHub: https://github.com/raunakr03-dev
